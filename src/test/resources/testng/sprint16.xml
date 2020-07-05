@@ -1,0 +1,16 @@
+
+
+<suite name="Sprint 16 TestSuite">
+
+    <test name ="Application Test">
+    
+              <classes>
+              
+              
+              <class name="com.noorteck.testng.xmultip.Multiply"> </class>
+              <class name="com.noorteck.testng.xdivision.Div"> </class>
+   
+          </classes>    
+    </test>
+
+</suite>

@@ -1,0 +1,25 @@
+
+
+<suite name ="Smoke Test Suite">
+     <test name ="Ad Functionality">
+           <classes>
+                  <class name="com.noorteck.testng.xaddition.Add"></class>
+           
+           </classes>
+       </test>
+
+<test name="Substract Functionality">
+        <classes>
+           <class name="com.noorteck.testng.xsubstraction.Substract"></class>
+        
+        </classes>
+</test>
+   
+   <test name="Multiply Functionality">
+        <classes>
+           <class name="com.noorteck.testng.xmultip.Multiply"></class>
+            </classes>
+                </test>
+</suite>
+
+
